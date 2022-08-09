@@ -6,6 +6,7 @@
             "Suntao\\Test\\": "src/"
         }
     },
+    "license": "MIT",
     "authors": [
         {
             "name": "suntao",
